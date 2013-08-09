@@ -4,7 +4,7 @@
 
 After equipping your machine with the PNG-optimising `pngcrush` utility, this wrapper has you crushing from JavaScript. This
 wrapper's API is designed to help you crush batches of images. If that isn't what you're looking for, check out
-[https://github.com/papandreou/node-pngcrush](papandreou's wrapper).
+[papandreou's wrapper](https://github.com/papandreou/node-pngcrush).
 
 Crush an image (love.png → out/love.png):
 ```javascript
