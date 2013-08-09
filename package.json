@@ -1,0 +1,20 @@
+{
+	"name": "pngcrush-fs",
+	"version": "1.0.0",
+	"description": "pngcrush bridges between JS and the PNG-optimising utility.",
+	"main": "library/pngcrush.js",
+	"files": ["library/pngcrush.js"],
+	"dependencies": {
+		"async": ">=0.2.5 <0.3.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/Pimm/pngcrush.git"
+	},
+	"keywords": [
+		"pngcrush",
+		"png"
+	],
+	"author": "Pimm Hogeling",
+	"license": "X11/LGPL/GPL"
+}
